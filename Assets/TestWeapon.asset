@@ -10,21 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e346444c6536d0a419ff68e28f5ed69c, type: 3}
-  m_Name: New Item
+  m_Name: TestWeapon
   m_EditorClassIdentifier: 
-  itemType: 4
-  artwork: {fileID: 0}
-  itemName: 
-  itemDescription: 
-  level: 0
+  itemType: 0
+  artwork: {fileID: 21300000, guid: 14bacdfc62c2e6b488b6e764b5f5e806, type: 3}
+  itemName: Wooden Club
+  itemDescription: Keeps off the drunks
+  level: 1
   damageType: 0
-  baseDamage: 0
-  fatique: 0
-  strenghtScaling: 0
-  dexterityScaling: 0
+  baseDamage: 5
+  fatique: 2
+  strenghtScaling: 2
+  dexterityScaling: 1
   intelligenceScaling: 0
-  strenghtRequirements: 0
-  dexterityRequirements: 0
+  strenghtRequirements: 6
+  dexterityRequirements: 4
   intelligenceRequirements: 0
   armourType: 0
   physicalDef: 0
